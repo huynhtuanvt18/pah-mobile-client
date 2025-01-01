@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "708287122606",
+    "project_id": "pah-storage",
+    "storage_bucket": "pah-storage.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:708287122606:android:88923aa8d0f4b50f27713f",
+        "android_client_info": {
+          "package_name": "com.pahmobileclient"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "708287122606-1cpauj2v8er5cruav359j0um94pucfr2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA71hUU1DBPJKr1BWLb9OJZlSrT0mTE-vo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "708287122606-1cpauj2v8er5cruav359j0um94pucfr2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
